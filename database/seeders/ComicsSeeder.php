@@ -228,7 +228,7 @@ class ComicsSeeder extends Seeder
             ],
         ];
 
-        foreach ($comics as $comic) {
+        foreach ($comics as $comic) {}
 
     }
 }
